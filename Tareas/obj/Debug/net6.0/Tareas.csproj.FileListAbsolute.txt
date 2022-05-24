@@ -1,0 +1,15 @@
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.csproj.AssemblyReference.cache
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.AssemblyInfo.cs
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\bin\Debug\net6.0\Tareas.exe
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\bin\Debug\net6.0\Tareas.deps.json
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\bin\Debug\net6.0\Tareas.runtimeconfig.json
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\bin\Debug\net6.0\Tareas.dll
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\bin\Debug\net6.0\Tareas.pdb
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.dll
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\refint\Tareas.dll
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.pdb
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\Tareas.genruntimeconfig.cache
+C:\Users\Matias N Zamora\source\repos\Tareas\Tareas\obj\Debug\net6.0\ref\Tareas.dll
