@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\Tarea clase 7\\Tarea clase 7.csproj": {}
+    "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas-.NET-6.0\\Tarea clase 7\\Tarea clase 7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\Tarea clase 7\\Tarea clase 7.csproj": {
+    "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas-.NET-6.0\\Tarea clase 7\\Tarea clase 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\Tarea clase 7\\Tarea clase 7.csproj",
+        "projectUniqueName": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas-.NET-6.0\\Tarea clase 7\\Tarea clase 7.csproj",
         "projectName": "Tarea clase 7",
-        "projectPath": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\Tarea clase 7\\Tarea clase 7.csproj",
+        "projectPath": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas-.NET-6.0\\Tarea clase 7\\Tarea clase 7.csproj",
         "packagesPath": "C:\\Users\\Matias N Zamora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\Tarea clase 7\\obj\\",
+        "outputPath": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas-.NET-6.0\\Tarea clase 7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matias N Zamora\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

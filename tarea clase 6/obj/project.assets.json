@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\tarea clase 6\\tarea clase 6.csproj",
+      "projectUniqueName": "C:\\Users\\Matias N Zamora\\Source\\Repos\\Tareas-.NET-6.0\\tarea clase 6\\tarea clase 6.csproj",
       "projectName": "tarea clase 6",
-      "projectPath": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\tarea clase 6\\tarea clase 6.csproj",
+      "projectPath": "C:\\Users\\Matias N Zamora\\Source\\Repos\\Tareas-.NET-6.0\\tarea clase 6\\tarea clase 6.csproj",
       "packagesPath": "C:\\Users\\Matias N Zamora\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matias N Zamora\\source\\repos\\Tareas\\tarea clase 6\\obj\\",
+      "outputPath": "C:\\Users\\Matias N Zamora\\Source\\Repos\\Tareas-.NET-6.0\\tarea clase 6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matias N Zamora\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
